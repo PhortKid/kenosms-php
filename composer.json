@@ -2,6 +2,7 @@
     "name": "iamphort/kenosms-php",
     "description": "PHP SDK for KenoSMS API",
     "version": "0.1.0",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
