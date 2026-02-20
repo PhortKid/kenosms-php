@@ -1,0 +1,14 @@
+{
+    "name": "iamphort/kenosms-php",
+    "description": "PHP SDK for KenoSMS API",
+    "version": "0.1.0",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "KenoSMS\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
